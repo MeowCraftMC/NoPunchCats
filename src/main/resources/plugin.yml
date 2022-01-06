@@ -1,0 +1,8 @@
+name: NoPunchCats
+version: '${version}'
+main: cx.rain.mc.nopunchcats.NoPunchCats
+api-version: 1.18
+prefix: NoPunchCats
+authors: [ qyl27 ]
+description: Do NOT hurt cats by accident.
+website: https://github.com/MeowCraftMC/NoPunchCats
